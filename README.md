@@ -1,22 +1,27 @@
-<!-- نوار معرفی -->
-<h1 align="center">⚠️ Welcome to the Dark Side ⚠️</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/banner.gif" alt="Noxveryn" width="100%" />
+</h1>
 
-<!-- تایپ متحرک -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF4444&center=true&vCenter=true&width=650&lines=Noxveryn+%7C+Code+is+my+weapon;No+limits%2C+No+rules%2C+Just+logic.;Dark+Tech+%7C+Clean+Code+%7C+Insane+Ideas;Welcome+to+my+zone+%F0%9F%91%BB" />
-</p>
-
-<!-- بنر متحرک نئونی -->
-<p align="center">
-  <img src="https://i.imgur.com/EXAMPLE.gif" width="800" alt="Noxveryn Banner" />
-  <!-- اگه بنر اختصاصی می‌خوای، بهم بگو تا بسازم -->
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Power-∞-ff0050?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Darkness-100%-000000?style=for-the-badge&logo=skull&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fearless-Creator-red?style=for-the-badge"/>
+</div>
 
 ---
 
-### 🧠 درباره من
-```txt
-> Noxveryn
-> Developer ⚙️ | Tinkerer 🧩 | Creator 🧠 | Perfectionist 🔥
-> I turn caffeine into code and chaos into clean logic.
-> I don’t push code. I inject intelligence.
+## ⚡ Who is Noxveryn?
+> برنامه‌نویس سایه‌ها | مهندس تاریکی | سازنده‌ی کدهایی که از جنس ترس و زیبایی‌اند.
+
+- 👁‍🗨 تمرکز من روی امنیت، الگوریتم‌های خاص، هوش مصنوعی و پروژه‌های تاریک و مهندسی معکوسه.
+- 🧠 مغز من مثل یه ماشین تحلیلگر کار می‌کنه. هیچ خطی از کد بی‌هدف نیست.
+- 🕶 شعار ندارم. فقط "باش و مبهوت کن".
+
+---
+
+## 🛠️ My Arsenal
+```bash
+Languages:     Python | C++ | Rust | JavaScript | Assembly
+Frameworks:    React | Flask | FastAPI | Node.js | Tailwind
+Tools:         Git | Docker | Nmap | Wireshark | BurpSuite | VSCode
+Other Skills:  AI/ML | Cybersecurity | Reverse Engineering | OSINT
