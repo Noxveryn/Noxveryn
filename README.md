@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Creator+of+Silence+%26+Chaos.;Code+is+Power.;Fear+is+a+Tool."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&pause=1500&color=FF0000&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Fear+is+a+Tool.;Code+is+Power."/>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧩 About Me
+## 🧩 About Noxveryn
 
 > کدی که می‌نویسم فقط اجرا نمی‌شه...  
 > اون *زنده می‌شه*  
@@ -24,41 +24,24 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚡ Glitch Text
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://user-images.githubusercontent.com/66719810/113517701-70184a00-958a-11eb-8a29-3e8c332f40ea.gif" alt="Glitch Effect" width="400"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 💻 Hacker Terminal Mode
 
-| Project Name | Description                   | Link                                      |
-| ------------ | -----------------------------| -----------------------------------------|
-| Silence      | Silent communication system  | [Repo](https://github.com/Noxveryn/silence) |
-| Chaos        | Code obfuscation tools       | [Repo](https://github.com/Noxveryn/chaos)   |
-| Digital Abyss| Security tools & scripts     | [Repo](https://github.com/Noxveryn/digital-abyss) |
+```bash
+user@noxveryn:~$ ls -la
+total 42
+-rw-r--r-- 1 user user 4096 Jul 15 2025 README.md
+drwxr-xr-x 2 user user 4096 Jul 10 2025 src
 
----
+user@noxveryn:~$ ./deploy.sh
+Deploying... Success!
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark" alt="Noxveryn's GitHub Stats" />
-</p>
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/noxveryn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/noxveryn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/noxveryn" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+user@noxveryn:~$ echo "Fear is a Tool"
+Fear is a Tool
