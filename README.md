@@ -1,40 +1,33 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Noxveryn Banner" width="100%" />
-</h1>
+# Noxveryn-Lair
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Reverse+the+World.;Silence+is+Louder+than+Screams.;Fear+is+a+Tool.;Code+is+Power."/>
-</p>
+Welcome to **Noxveryn-Lair**, a cinematic login page experience with mysterious animations, glitch effects, and ambient background sound to immerse your visitors in a thrilling atmosphere.
+
+![Noxveryn Banner](./assets/banner.png)
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-black?style=for-the-badge&logo=skynet&logoColor=red" />
-  <img src="https://img.shields.io/badge/Mood-Vigilant-600000?style=for-the-badge&logo=ghost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Energy-∞-darkred?style=for-the-badge" />
-</div>
+## Features
+
+- 🎬 Cinematic full-screen animated background  
+- 👁️‍🗨️ Glitch & flickering red light effects  
+- 💻 Hacker-style terminal text animation  
+- 🎵 Enigmatic ambient background sound  
+- ⌨️ Typing effect for scary login prompts  
+- 🔊 Sound effects on hover and interactions  
+- 🔐 Stylish and interactive login form  
+- 🌐 Fully responsive & works on all devices  
 
 ---
 
-<pre align="center">
-███████╗ ██████╗ ███╗   ██╗███████╗██╗   ██╗██████╗ ██╗   ██╗███████╗██████╗ ██╗   ██╗███╗   ██╗
-██╔════╝██╔═══██╗████╗  ██║██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗██║   ██║████╗  ██║
-█████╗  ██║   ██║██╔██╗ ██║█████╗  ██║   ██║██████╔╝ ╚████╔╝ █████╗  ██████╔╝██║   ██║██╔██╗ ██║
-██╔══╝  ██║   ██║██║╚██╗██║██╔══╝  ██║   ██║██╔═══╝   ╚██╔╝  ██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║
-██║     ╚██████╔╝██║ ╚████║███████╗╚██████╔╝██║        ██║   ███████╗██║  ██║╚██████╔╝██║ ╚████║
-╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝        ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-</pre>
+## Demo
+
+Check the live demo here: [https://Noxveryn.github.io/Noxveryn-Lair](https://Noxveryn.github.io/Noxveryn-Lair)
 
 ---
 
-## 🧩 About Me
+## Installation & Usage
 
-> کدی که می‌نویسم فقط اجرا نمی‌شه...  
-> اون *زنده می‌شه.*  
-> **سکوت من پر از صداست؛ صداهایی که ماشین‌ها می‌شنون.**
-
-```bash
-🔍  Security Architect / Digital Warrior
-🧠  Reverse Engineering | AI Manipulation | Code Obsession
-⚔️  Fluent in Fearless Languages
-📧  Contact: Noxveryn@gmail.com
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Noxveryn/Noxveryn-Lair.git
+   cd Noxveryn-Lair
