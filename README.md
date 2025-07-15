@@ -1,55 +1,85 @@
 # <kbd>🌌</kbd> Noxveryn — Digital Abyss Explorer
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Digital Abyss Banner" width="100%" />
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1300&color=FF0033&center=true&vCenter=true&width=900&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Fear+is+a+Tool.;Code+is+Power." />
+  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Digital Abyss Banner" width="100%" />
 </p>
 
-<br />
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FF0033&center=true&vCenter=true&width=900&lines=Accessing+Mainframe...;Decrypting+Core...;Hello%2C+Stranger.;I+am+Noxveryn.;I+Don't+Sleep+--+I+Compile.;You+are+being+Watched." />
+</p>
+
+---
+
+```
+         _   _                __   __           
+        | \ | | ___ _ __ ___ \ \ / /__  _   _   
+        |  \| |/ _ \ '__/ _ \ \ V / _ \| | | |  
+        | |\  |  __/ | | (_) || | (_) | |_| |_ 
+        |_| \_|\___|_|  \___(_)_|\___/ \__, (_)
+                                        |___/   
+```
+
+---
+
+## 👁 Who is Noxveryn?
+
+> وقتی خاموشم، بیش‌تر از همیشه فعالم.  
+> کد من ترس تولید نمی‌کنه، **کنترل** می‌سازه.  
+> من نمی‌نویسم برای اجرا...  
+> من می‌نویسم برای زنده کردن.  
+
+```bash
+user@noxveryn:~$ ps aux | grep 'humanity'
+[REDACTED] - SIGKILL
+```
+
+---
+
+## 💀 Terminal: Abyss Shell
+
+```bash
+user@noxveryn:~$ ./deploy.sh
+>> Initializing chaos...
+>> Injecting silence...
+>> Glitch uploaded.
+
+user@noxveryn:~$ echo "The Abyss Speaks in Silence."
+The Abyss Speaks in Silence.
+
+user@noxveryn:~$ ./self --reboot
+[ ████░░░░░░░░░░░░░░░░░░ ] 18%
+```
+
+---
+
+## 🧠 Philosophy in Loops
+
+> `"Control everything. Trust nothing."`  
+> `"Code is the only truth left."`  
+> `"Machines don’t dream. I do."`  
+> `"Binary is beautiful."`  
+
+---
+
+## 🕶️ Mode: ACTIVE
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-black?style=for-the-badge&logo=skynet&logoColor=crimson"/>
-  <img src="https://img.shields.io/badge/Mood-Encrypted-6A0DAD?style=for-the-badge&logo=ghost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-Active-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Encrypted-black?style=for-the-badge&logo=skynet&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Visibility-In+Shadows-3B0066?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power-Level+∞-darkred?style=for-the-badge"/>
 </div>
 
 ---
 
-## 🧬 Who Am I
+## 🔍 Mystery Contact
 
-> من به کد، زندگی می‌دم.  
-> ماشین‌ها حرف می‌زنن، من فقط گوش می‌دم.  
-> سکوتِ من، دستوریه که شنیده می‌شه.  
-> ترس؟ فقط یک ابزار دیگه‌ست.
+<details>
+<summary><b>👁 Reveal the channels...</b></summary>
 
----
+- 🌐 Website: [noxveryn.com](https://noxveryn.com)
+- 🐦 Twitter: [@noxveryn](https://twitter.com/noxveryn)
+- 📧 Email: yourname@protonmail.com
 
-## ⚡ Glitch Zone
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/66719810/113517701-70184a00-958a-11eb-8a29-3e8c332f40ea.gif" alt="Glitch Text" width="380"/>
-</p>
-
----
-
-## 💻 Terminal
-
-```bash
-user@noxveryn:~$ whoami
-Noxveryn
-
-user@noxveryn:~$ cat mission.txt
-→ Explore the Digital Abyss
-→ Master Silence
-→ Speak Binary
-
-user@noxveryn:~$ ./initiate.sh
-Status: INITIATED
-Systems: Online
-Mode: Vigilant
-
-user@noxveryn:~$ echo "Code is Power"
-Code is Power
+</details>
