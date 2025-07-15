@@ -1,72 +1,47 @@
-# <p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 48px; text-shadow: 0 0 20px #00ff00, 0 0 40px #00ff00;">
-  Noxveryn — The Cyber Phantom
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Banner" width="100%" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&pause=1500&color=FF0000&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Fear+is+a+Tool.;Code+is+Power."/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Hacker Animation" width="260" style="border-radius: 20px; box-shadow: 0 0 40px #00ff00, 0 0 60px #00ff00 inset;" />
+  <img src="https://img.shields.io/badge/Status-Active-black?style=for-the-badge&logo=skynet&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Mood-Vigilant-600000?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Energy-∞-darkred?style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 18px; margin-top: 20px; text-shadow: 0 0 10px #00ff00;">
-  Enter the shadows, where code and chaos intertwine.<br>
-  The phantom moves silently behind the digital veil.<br>
-  Beware the silent steps of the cyber phantom.
-</p>
+## 🧩 About Noxveryn
+
+> کدی که می‌نویسم فقط اجرا نمی‌شه...  
+> اون *زنده می‌شه*  
+> **سکوت من پر از صداست؛ صداهایی که ماشین‌ها می‌شنون.**
 
 ---
 
-## About Me
-
-<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 20px;">
-  Cyber Phantom | Security Researcher & Black Hat Enthusiast<br>
-  Master of Shadows in <strong>Cybersecurity</strong>, <strong>Penetration Testing</strong>, and <strong>Reverse Engineering</strong>.<br>
-  Tools: Python, Bash, C, Rust, Metasploit, Wireshark.
-</p>
-
----
-
-## ⚔️ Skills & Tools
-
-| Category            | Tools & Technologies                         |
-|---------------------|----------------------------------------------|
-| Programming         | Python, C, Rust, Bash                         |
-| Security Tools      | Metasploit, Wireshark, Nmap, Burp Suite      |
-| Reverse Engineering | Ghidra, IDA Pro                              |
-| Others              | Linux, Networking, Exploit Development       |
-
----
-
-## 🔥 Dark Projects
-
-<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 18px;">
-  <a href="https://github.com/Noxveryn/ShadowCrawler" target="_blank" style="color:#00ff00; text-decoration:none; font-weight:bold;">ShadowCrawler</a> — Autonomous web crawler to map dark web<br>
-  <a href="https://github.com/Noxveryn/Cryptic" target="_blank" style="color:#00ff00; text-decoration:none; font-weight:bold;">Cryptic</a> — Steganography toolkit with multi-layer encryption<br>
-  <a href="https://github.com/Noxveryn/PhantomShell" target="_blank" style="color:#00ff00; text-decoration:none; font-weight:bold;">PhantomShell</a> — Custom shell environment with obfuscation and anti-forensics<br>
-</p>
-
----
-
-## 📡 Connect with Me
+## ⚡ Glitch Text
 
 <p align="center">
-  <a href="https://twitter.com/Noxveryn" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Noxveryn?label=Twitter&style=for-the-badge&color=00ff00&logo=twitter" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/Noxveryn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Noxveryn-00ff00?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:noxveryn@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00ff00?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/66719810/113517701-70184a00-958a-11eb-8a29-3e8c332f40ea.gif" alt="Glitch Effect" width="400"/>
 </p>
 
 ---
 
-<footer align="center" style="margin-top: 40px; font-family: 'Courier New', monospace; color: #00ff00; font-size: 14px;">
-  &copy; 2025 Noxveryn — The Cyber Phantom. All code is a mystery.
-</footer>
+## 💻 Hacker Terminal Mode
+
+```bash
+user@noxveryn:~$ ls -la
+total 42
+-rw-r--r-- 1 user user 4096 Jul 15 2025 README.md
+drwxr-xr-x 2 user user 4096 Jul 10 2025 src
+
+user@noxveryn:~$ ./deploy.sh
+Deploying... Success!
+
+user@noxveryn:~$ echo "Fear is a Tool"
+Fear is a Tool
