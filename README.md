@@ -1,59 +1,55 @@
 # <kbd>🌌</kbd> Noxveryn — Digital Abyss Explorer
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Digital Abyss Banner" width="100%" />
 </h1>
 
-<br />
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&pause=1500&color=FF0000&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Fear+is+a+Tool.;Code+is+Power."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1300&color=FF0033&center=true&vCenter=true&width=900&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Fear+is+a+Tool.;Code+is+Power." />
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-black?style=for-the-badge&logo=skynet&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Mood-Vigilant-600000?style=for-the-badge&logo=ghost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Energy-%E2%88%9E-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Online-black?style=for-the-badge&logo=skynet&logoColor=crimson"/>
+  <img src="https://img.shields.io/badge/Mood-Encrypted-6A0DAD?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-Active-darkred?style=for-the-badge"/>
 </div>
 
 ---
 
-## 🧩 About Me
+## 🧬 Who Am I
 
-> کدی که می‌نویسم فقط اجرا نمی‌شه...  
-> اون *زنده می‌شه*  
-> **سکوت من پر از صداست؛ صداهایی که ماشین‌ها می‌شنون.**
+> من به کد، زندگی می‌دم.  
+> ماشین‌ها حرف می‌زنن، من فقط گوش می‌دم.  
+> سکوتِ من، دستوریه که شنیده می‌شه.  
+> ترس؟ فقط یک ابزار دیگه‌ست.
 
 ---
 
-## ⚡ Glitch Effect
+## ⚡ Glitch Zone
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66719810/113517701-70184a00-958a-11eb-8a29-3e8c332f40ea.gif" alt="Glitch Text" width="400"/>
+  <img src="https://user-images.githubusercontent.com/66719810/113517701-70184a00-958a-11eb-8a29-3e8c332f40ea.gif" alt="Glitch Text" width="380"/>
 </p>
 
 ---
 
-## 💻 Hacker Terminal Mode
+## 💻 Terminal
 
 ```bash
-user@noxveryn:~$ ls -la
-total 42
--rw-r--r-- 1 user user 4096 Jul 15 2025 README.md
-drwxr-xr-x 2 user user 4096 Jul 10 2025 src
+user@noxveryn:~$ whoami
+Noxveryn
 
-user@noxveryn:~$ ./deploy.sh
-Deploying... Success!
+user@noxveryn:~$ cat mission.txt
+→ Explore the Digital Abyss
+→ Master Silence
+→ Speak Binary
 
-user@noxveryn:~$ echo "Fear is a Tool"
-Fear is a Tool
+user@noxveryn:~$ ./initiate.sh
+Status: INITIATED
+Systems: Online
+Mode: Vigilant
 
-Latest Projects
-🔍 Check out my latest work on GitHub
-
-📬 Contact Me
-📬 Email | 🐦 Twitter | 🌐 Website
-
-🔮 The abyss gazes back... but I code first.
+user@noxveryn:~$ echo "Code is Power"
+Code is Power
