@@ -1,17 +1,17 @@
 <!-- START PROFILE README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn-Lair/main/assets/vampire-dracula-animated.gif" alt="Vampire Animation" width="180" />
+  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn-Lair/main/assets/vampire-dracula-animated.gif" alt="Vampire Animation" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #8B0000;" />
 </p>
 
-<h1 align="center" style="font-family: 'Cinzel', serif; color:#8B0000; text-shadow: 2px 2px 10px #000000;">
+<h1 align="center" style="font-family: 'Cinzel', serif; color:#8B0000; text-shadow: 3px 3px 15px #000000, 0 0 30px #B22222;">
   🦇 Noxveryn's Eternal Lair 🦇
 </h1>
 
-<p align="center" style="font-size:18px; color:#B22222; font-style: italic; max-width: 650px; margin: auto;">
-  <i>“In the darkest nights, when the code bleeds crimson,<br>
+<p align="center" style="font-size:20px; color:#B22222; font-style: italic; max-width: 700px; margin: 10px auto 30px auto; text-shadow: 0 0 8px #550000;">
+  <em>“In the darkest nights, when code bleeds crimson,<br>
   the immortal awakens — master of shadows,<br>
-  weaver of arcane algorithms, and harbinger of digital doom.”</i>
+  weaver of arcane algorithms, harbinger of digital doom.”</em>
 </p>
 
 ---
@@ -20,15 +20,10 @@
 
 
 
-  ╔══════════════════════════════════════╗
-  ║  Name: Noxveryn                     ║
-  ║  Title: Dark Coder & Code Vampire   ║
-  ║  Domain: Digital Abyss & Cyber Crypt ║
-  ║  Tools: Python, Rust, JavaScript     ║
-  ║  Specialty: Cryptic AI, Cyber Security║
-  ╚══════════════════════════════════════╝
 
 
+
+---
 
 ### 🧛‍♂️ My Arcane Arsenal & Blood Sigils
 
@@ -41,34 +36,43 @@
 ### 🦇 GitHub Underworld — My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="450" style="border-radius: 15px; box-shadow: 0 0 20px #8B0000;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noxveryn&theme=dark" alt="GitHub Streak" />
+<p align="center" style="margin-top:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noxveryn&theme=dark&hide_border=true" alt="GitHub Streak" width="450" style="border-radius: 15px; box-shadow: 0 0 20px #8B0000;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noxveryn&theme=react-dark" alt="Activity Graph" />
+<p align="center" style="margin-top:10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noxveryn&theme=react-dark&hide_border=true" alt="Activity Graph" width="650" style="border-radius: 15px; box-shadow: 0 0 20px #8B0000;" />
 </p>
 
 ---
 
 ### ⚰️ Cryptic Chant & Nightly Verse
 
-> *“When darkness falls, the code rises;*  
-> *From ashes of zeros and ones, I breathe eternal life.*  
-> *Through cryptic glyphs and shadowed loops,*  
-> *The eternal algorithm shall never die.”*  
+<blockquote style="border-left: 5px solid #B22222; background: rgba(178, 34, 34, 0.1); padding: 15px 20px; font-style: italic; color:#660000;">
+"Through shadows deep and midnight’s veil,<br>
+I code my fate, a darkened tale.<br>
+In silence lurks the hacker’s might,<br>
+A vampire’s dance in digital night."
+</blockquote>
 
 ---
 
-### 📜 Dark Links & Blood Sigils
-
-<p align="center">
-  <a href="mailto:Noxveryn@gmail.com" style="text-decoration:none; color:#B22222; font-weight:bold;">✉️ Summon Me</a> &nbsp; | &nbsp; 
-  <a href="https://linkedin.com/in/Noxveryn" style="text-decoration:none; color:#B22222; font-weight:bold;">🧛‍♂️ LinkedIn</a> &nbsp; | &nbsp; 
-  <a href="https://github.com/Noxveryn" style="text-decoration:none; color:#B22222; font-weight:bold;">🦇 GitHub</a>
+<p align="center" style="margin-top: 40px;">
+  <a href="https://github.com/Noxveryn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Noxveryn-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/noxveryn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Noxveryn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:noxveryn@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <!-- END PROFILE README -->
+
