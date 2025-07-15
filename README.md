@@ -1,100 +1,52 @@
-<!-- ======================== -->
-<!-- GitHub Profile README -->
-<!-- ======================== -->
-
-<h1 align="center">سلام، من [نام شما] هستم 👋</h1>
-
+<!-- معرفی حرفه‌ای -->
+<h1 align="center">سلام، من Noxveryn هستم 👋</h1>
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+    توسعه‌دهنده‌ای علاقه‌مند به تکنولوژی، کدنویسی تمیز، و ساخت پروژه‌های کاربردی و خلاقانه.
+</p>
+
+<!-- بنر یا تصویر متحرک -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F70000&center=true&vCenter=true&width=600&lines=برنامه‌نویس+خلاق;عاشق+یادگیری+و+پیشرفت;به+دنبال+ساختن+چیزهای+فوق‌العاده" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔥 درباره من
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="280" />
-</p>
-
-<p align="center">
-  من یک توسعه‌دهنده فول‌استک حرفه‌ای با سابقه در [زمینه‌های تخصصی] هستم.  
-  علاقه‌مند به ایجاد پروژه‌های نوآورانه، بهینه و باکیفیت.  
-  مشتاق یادگیری مداوم و به اشتراک‌گذاری دانش با جامعه متن‌باز.  
-</p>
-
----
-
-## 🚀 مهارت‌ها
-
-<p align="center">
-  <!-- زبان‌ها -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
----
-
-## 🌟 پروژه‌های منتخب
+### 🔥 پروژه‌های برجسته
 
 | پروژه | توضیح | لینک |
-|-------|--------|-------|
-| 💎 [AwesomeProject](https://github.com/yourusername/AwesomeProject) | پروژه‌ای با عملکرد عالی در زمینه [موضوع پروژه] | 🔗 مشاهده پروژه |
-| 📊 [DataAnalyzer](https://github.com/yourusername/DataAnalyzer) | ابزار تحلیل داده‌های پیشرفته با رابط کاربری ساده | 🔗 مشاهده پروژه |
-| 🌐 [Portfolio](https://yourwebsite.com) | سایت نمونه‌کارهای من با طراحی مدرن و واکنش‌گرا | 🌍 نمایش سایت |
+|-------|-------|------|
+| **SmartHome-ESP32** | سیستم کنترل خانه هوشمند با ESP32، رابط وب، تایمر، RGB و WebSocket | [🔗 GitHub](https://github.com/Noxveryn/SmartHome-ESP32) |
+| **CryptoSignalBot** | ربات سیگنال‌دهی رمزارز با تحلیل تکنیکال و ارسال تلگرام | [🔗 GitHub](https://github.com/Noxveryn/CryptoSignalBot) |
+| **LightingFX** | سیستم افکت نور برای LED با ESP32، با ساخت افکت اختصاصی و API حرفه‌ای | [🔗 GitHub](https://github.com/Noxveryn/LightingFX) |
 
 ---
 
-## 📊 آمار گیت‌هاب
+### ⚙️ مهارت‌ها و تکنولوژی‌ها
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,py,js,nodejs,html,css,react,github,git,linux,vscode" />
 </p>
 
 ---
 
-## 📫 ارتباط با من
+### 📈 آمار گیت‌هاب من
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourinstagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noxveryn&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📝 جمله مورد علاقه من
+### 📬 ارتباط با من
 
-> "کد نوشتن یعنی خلق جهان جدیدی که تا به حال نبوده." 🚀
+<p align="center">
+  <a href="https://t.me/Noxveryn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<p align="center"> ساخته شده با ❤️ توسط [نام شما] </p>
+<div align="center">
+  ساخته شده با ❤️ توسط Noxveryn
+</div>
