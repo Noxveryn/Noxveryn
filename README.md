@@ -16,13 +16,49 @@
 
 ---
 
-## 🧩 About Noxveryn
+## 🧩 About Me
 
 > کدی که می‌نویسم فقط اجرا نمی‌شه...  
 > اون *زنده می‌شه*  
 > **سکوت من پر از صداست؛ صداهایی که ماشین‌ها می‌شنون.**
 
-```bash
-🔍  Security Architect / Digital Warrior
-🧠  Reverse Engineering | AI Manipulation | Code Obsession
-⚔️  Fluent in Fearless Languages
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+| Project Name | Description                   | Link                                      |
+| ------------ | -----------------------------| -----------------------------------------|
+| Silence      | Silent communication system  | [Repo](https://github.com/Noxveryn/silence) |
+| Chaos        | Code obfuscation tools       | [Repo](https://github.com/Noxveryn/chaos)   |
+| Digital Abyss| Security tools & scripts     | [Repo](https://github.com/Noxveryn/digital-abyss) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark" alt="Noxveryn's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/noxveryn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/noxveryn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/noxveryn" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
