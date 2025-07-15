@@ -1,20 +1,19 @@
-# <p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 48px; text-shadow: 0 0 15px #00ff00, 0 0 30px #00ff00;">
+# <p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 48px; text-shadow: 0 0 20px #00ff00, 0 0 40px #00ff00;">
   Noxveryn — The Cyber Phantom
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Matrix Digital Rain" width="400" style="border-radius: 20px; box-shadow: 0 0 60px #00ff00;" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Hacker Animation" width="260" style="border-radius: 20px; box-shadow: 0 0 40px #00ff00, 0 0 60px #00ff00 inset;" />
 </p>
 
 ---
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 18px; margin-top: 20px; text-shadow: 0 0 8px #00ff00;">
-  Dive into the code abyss.<br>
-  Where commits whisper, and pull requests haunt.<br>
-  The silent dance of bugs and fixes.<br>
-  The eternal cycle of creation and destruction.
+<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 18px; margin-top: 20px; text-shadow: 0 0 10px #00ff00;">
+  Enter the shadows, where code and chaos intertwine.<br>
+  The phantom moves silently behind the digital veil.<br>
+  Beware the silent steps of the cyber phantom.
 </p>
 
 ---
@@ -64,21 +63,6 @@
   <a href="mailto:noxveryn@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-00ff00?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-</p>
-
----
-
-### 📊 Code in the Shadows
-
-<p align="center" style="margin-top: 40px;">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Matrix Digital Rain" width="400" style="border-radius: 20px; box-shadow: 0 0 60px #00ff00;" />
-</p>
-
-<p align="center" style="color: #00ff00; font-family: 'Courier New', monospace; font-size: 18px; margin-top: 20px; text-shadow: 0 0 8px #00ff00;">
-  Dive into the code abyss.<br>
-  Where commits whisper, and pull requests haunt.<br>
-  The silent dance of bugs and fixes.<br>
-  The eternal cycle of creation and destruction.
 </p>
 
 ---
