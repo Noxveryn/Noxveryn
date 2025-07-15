@@ -1,78 +1,75 @@
 <!-- START PROFILE README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn-Lair/main/assets/vampire-dracula-animated.gif" alt="Vampire Animation" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #8B0000;" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Hacker Animation" width="220" style="border-radius: 15px; box-shadow: 0 0 25px #00ff00;" />
 </p>
 
-<h1 align="center" style="font-family: 'Cinzel', serif; color:#8B0000; text-shadow: 3px 3px 15px #000000, 0 0 30px #B22222;">
-  🦇 Noxveryn's Eternal Lair 🦇
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; color:#00ff00; text-shadow: 0 0 15px #00ff00, 0 0 30px #003300;">
+  ⚡ Noxveryn — Cyber Phantom ⚡
 </h1>
 
-<p align="center" style="font-size:20px; color:#B22222; font-style: italic; max-width: 700px; margin: 10px auto 30px auto; text-shadow: 0 0 8px #550000;">
-  <em>“In the darkest nights, when code bleeds crimson,<br>
-  the immortal awakens — master of shadows,<br>
-  weaver of arcane algorithms, harbinger of digital doom.”</em>
+<p align="center" style="font-size:18px; color:#0f0; max-width: 650px; margin: 10px auto 30px auto; font-family: 'Courier New', monospace;">
+  “Behind every encrypted code, a shadow lurks —<br>
+  digital ghost mastering the dark arts of hacking and stealth.”
 </p>
 
 ---
 
-### 🕯️ The Blood Oath — Who I Am
+### 🕵️‍♂️ Who Am I?
 
-
-
-
-
+<div align="center" style="background:#011100; padding:20px; border-radius: 15px; max-width: 600px; margin: 0 auto; box-shadow: 0 0 25px #00ff00;">
+  <p style="font-family: 'Courier New', monospace; color:#00ff00; font-size:16px; margin-bottom:10px;">
+    <strong>Alias:</strong> <code>Cyber Phantom</code> &nbsp;|&nbsp; <strong>Status:</strong> Active Threat Hunter
+  </p>
+  <p style="font-family: 'Courier New', monospace; color:#00ff00; font-size:16px; margin-bottom:10px;">
+    <strong>Specialties:</strong> Penetration Testing, Exploit Development, Reverse Engineering, Red Team Ops
+  </p>
+  <p style="font-family: 'Courier New', monospace; color:#00ff00; font-size:16px;">
+    <strong>Favorite Tools:</strong> Python, Rust, Metasploit, Nmap, Wireshark, Bash, Custom Shell Scripts
+  </p>
+</div>
 
 ---
 
-### 🧛‍♂️ My Arcane Arsenal & Blood Sigils
+### 🛠️ Tools of the Dark Trade
 
-| Languages & Magic Runes                                                                                     | Dark Tools & Spellbooks                                                 |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd57?logo=javascript&logoColor=black&style=for-the-badge) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge) |
+| Languages & Frameworks                                     | Tools & Utilities                                     |
+|-----------------------------------------------------------|------------------------------------------------------|
+| ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white&style=for-the-badge) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge) | ![Metasploit](https://img.shields.io/badge/-Metasploit-9F000F?logo=metasploit&logoColor=white&style=for-the-badge) ![Wireshark](https://img.shields.io/badge/-Wireshark-0083B3?logo=wireshark&logoColor=white&style=for-the-badge) ![Nmap](https://img.shields.io/badge/-Nmap-CC0000?logo=nmap&logoColor=white&style=for-the-badge) |
 
 ---
 
-### 🦇 GitHub Underworld — My Stats
+### 📊 GitHub Stats — Code in the Shadows
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="450" style="border-radius: 15px; box-shadow: 0 0 20px #8B0000;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="480" style="border-radius: 15px; box-shadow: 0 0 20px #00ff00;" />
 </p>
 
 <p align="center" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noxveryn&theme=dark&hide_border=true" alt="GitHub Streak" width="450" style="border-radius: 15px; box-shadow: 0 0 20px #8B0000;" />
-</p>
-
-<p align="center" style="margin-top:10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noxveryn&theme=react-dark&hide_border=true" alt="Activity Graph" width="650" style="border-radius: 15px; box-shadow: 0 0 20px #8B0000;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noxveryn&theme=radical&hide_border=true" alt="GitHub Streak" width="480" style="border-radius: 15px; box-shadow: 0 0 20px #00ff00;" />
 </p>
 
 ---
 
-### ⚰️ Cryptic Chant & Nightly Verse
+### 📜 Hacker’s Creed
 
-<blockquote style="border-left: 5px solid #B22222; background: rgba(178, 34, 34, 0.1); padding: 15px 20px; font-style: italic; color:#660000;">
-"Through shadows deep and midnight’s veil,<br>
-I code my fate, a darkened tale.<br>
-In silence lurks the hacker’s might,<br>
-A vampire’s dance in digital night."
+<blockquote style="border-left: 5px solid #00ff00; background: rgba(0, 255, 0, 0.1); padding: 15px 20px; font-style: italic; color:#003300; font-family: 'Courier New', monospace;">
+“Code is my weapon, shadows my shield,<br>
+In every exploit, a secret revealed.<br>
+Silent and swift, through firewalls I glide,<br>
+A ghost in the machine — nowhere to hide.”
 </blockquote>
 
 ---
 
 <p align="center" style="margin-top: 40px;">
-  <a href="https://github.com/Noxveryn" target="_blank">
+  <a href="https://github.com/Noxveryn" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-Noxveryn-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/noxveryn" target="_blank">
+  <a href="https://www.linkedin.com/in/noxveryn" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-Noxveryn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:noxveryn@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <!-- END PROFILE README -->
-
