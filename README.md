@@ -1,27 +1,28 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/banner.gif" alt="Noxveryn" width="100%" />
+  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Banner" width="100%" />
 </h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Power-∞-ff0050?style=for-the-badge&logo=ghost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Darkness-100%-000000?style=for-the-badge&logo=skull&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fearless-Creator-red?style=for-the-badge"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Creator+of+Silence+%26+Chaos.;Code+is+Power.;Fear+is+a+Tool."/>
+</p>
 
 ---
 
-## ⚡ Who is Noxveryn?
-> برنامه‌نویس سایه‌ها | مهندس تاریکی | سازنده‌ی کدهایی که از جنس ترس و زیبایی‌اند.
-
-- 👁‍🗨 تمرکز من روی امنیت، الگوریتم‌های خاص، هوش مصنوعی و پروژه‌های تاریک و مهندسی معکوسه.
-- 🧠 مغز من مثل یه ماشین تحلیلگر کار می‌کنه. هیچ خطی از کد بی‌هدف نیست.
-- 🕶 شعار ندارم. فقط "باش و مبهوت کن".
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-black?style=for-the-badge&logo=skynet&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Mood-Vigilant-600000?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Energy-∞-darkred?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ My Arsenal
+## 🧩 About Noxveryn
+
+> کدی که می‌نویسم فقط اجرا نمی‌شه...  
+> اون *زنده می‌شه*  
+> **سکوت من پر از صداست؛ صداهایی که ماشین‌ها می‌شنون.**
+
 ```bash
-Languages:     Python | C++ | Rust | JavaScript | Assembly
-Frameworks:    React | Flask | FastAPI | Node.js | Tailwind
-Tools:         Git | Docker | Nmap | Wireshark | BurpSuite | VSCode
-Other Skills:  AI/ML | Cybersecurity | Reverse Engineering | OSINT
+🔍  Security Architect / Digital Warrior
+🧠  Reverse Engineering | AI Manipulation | Code Obsession
+⚔️  Fluent in Fearless Languages
