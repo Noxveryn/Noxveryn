@@ -1,16 +1,15 @@
 <div align="center">
   <br>
-  <h1>👾 NOXVERYN</h1>
+  <h1>👾 Noxveryn</h1>
   <p><i>Full-stack Cyberpunk Architect | Shadow Operator | Silent Infiltrator</i></p>
 </div>
 
 ---
 
 ### 🧠 <b>System Status</b>
-- 🟢 <b>ID:</b> NOXVERYN
-- 🟢 <b>Role:</b> Full-stack Architect & Cyber Phantom
-- 🟡 <b>Net:</b> Classified | ENGAGED
-- 🔴 <b>Mode:</b> Stealth | Access Level: ROOT
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com ?font=Fira+Code&color=00fffb&lines=ID:+Noxveryn;Role:+Full-stack+Architect+%26+Cyber+Phantom;Net:+Classified+%7C+ENGAGED;Mode:+Stealth+%7C+Access+Level%3A+ROOT" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -34,12 +33,20 @@
 ### 📊 <b>GitHub Stats</b>
 
 <div align="center">
-  <a href=" https://github.com/NOXVERYN ">
-    <img src="https://github-readme-stats.vercel.app/api?username=NOXVERYN&theme=dracula&show_icons=true" />
+  <a href=" https://github.com/Noxveryn ">
+    <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&theme=dracula&show_icons=true" />
   </a>
-  <a href=" https://github.com/NOXVERYN ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOXVERYN&theme=dracula" />
+  <a href=" https://github.com/Noxveryn ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxveryn&theme=dracula" />
   </a>
+</div>
+
+---
+
+### 🕶️ <b>WakaTime Stats</b>
+
+<div align="center">
+  <img src=" https://github-readme-stats.vercel.app/api/wakatime?username=Noxveryn&theme=dracula" />
 </div>
 
 ---
@@ -55,10 +62,10 @@
 
 | Platform | Username |
 |----------|----------|
-| 🐦 Twitter | [twitter.com/NOXVERYN]( https://twitter.com/NOXVERYN ) |
-| 💼 LinkedIn | [linkedin.com/in/NOXVERYN](https://linkedin.com/in/NOXVERYN ) |
+| 🐦 Twitter | [twitter.com/Noxveryn]( https://twitter.com/Noxveryn ) |
+| 💼 LinkedIn | [linkedin.com/in/Noxveryn](https://linkedin.com/in/Noxveryn ) |
 | 📧 Email | [mailto:noxveryn@protonmail.com](noxveryn@protonmail.com) |
-| 💬 Telegram | [t.me/NOXVERYN](https://t.me/NOXVERYN ) |
+| 💬 Telegram | [t.me/Noxveryn](https://t.me/Noxveryn ) |
 
 ---
 
