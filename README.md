@@ -19,7 +19,7 @@
 ### 🧬 LANGUAGES & TOOLS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,php,cs,html,css,js,bash,linux,nodejs,react,nginx,=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,php,cs,html,css,js,bash,linux,nodejs,react,kotlin,=10&theme=dark" />
 </div>
 
 ---
