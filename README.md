@@ -1,34 +1,50 @@
+<!-- =============================== -->
+<!--    Noxveryn - The Digital Phantom -->
+<!-- =============================== -->
+
 # 🚀 NOXVERYN | The Digital Phantom
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1500&color=0ff&width=720&lines=Full-stack+Cyberpunk+Architect;Silent+Operator;Shadow+in+the+Machine)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1600&color=00fff7&width=750&lines=Full-stack+Cyberpunk+Architect;Silent+Operator;Shadow+in+the+Machine;Code+Is+My+Weapon)
 
 ---
 
 ### ⚙️ SYSTEM STATUS: ███████████ 99.9% OPERATIONAL
 
-> Identity: NOXVERYN  
-> Role: Full-stack Architect & Digital Phantom  
-> Network: Secure | Location: Unknown  
-> Status: Engaged in Deep Code Extraction
+```
+ID: NOXVERYN
+ROLE: Full-stack Architect & Cyber Phantom
+LOCATION: Classified
+NETWORK: Secure | Status: Engaged
+MODE: Stealth | Access Level: Root
+```
 
 ---
 
 ### 🛸 MISSION LOG
 
-- 🛠 Architecting resilient full-stack infrastructures under neon shadows  
-- ⚡ Deploying stealth automation & AI-driven cyber warfare tools  
-- 🌑 Navigating the silent void of cyberspace with lethal precision  
-- 🎨 Designing UI interfaces that bleed darkness and light
+| Timestamp             | Operation Description                      | Status    |
+|-----------------------|--------------------------------------------|-----------|
+| 2025-07-17 22:45 UTC  | Deploy stealth AI-driven cyber tools       | ✅ Success |
+| 2025-07-15 18:10 UTC  | Automated breach simulations & firewall tests | ✅ Success |
+| 2025-07-12 04:32 UTC  | Crafted custom UI/UX for neon-drenched dashboards | ✅ Success |
+| 2025-07-10 12:00 UTC  | Full-stack architecture revamp with Rust & Go | ✅ Success |
 
 ---
 
 ### 📊 ACTIVITY MATRIX
 
-![Noxveryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark&count_private=true&hide_title=true)
+![Noxveryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=radical&count_private=true&hide_title=true)
 
 ---
 
-### ⌨️ ACCESS TERMINAL
+### 🔮 QUANTUM THOUGHTS
+
+> "In the void of endless code, silence speaks louder than noise.  
+> Fear is a shadow — I am the light that dissects it."
+
+---
+
+### ⌨️ TERMINAL ACCESS
 
 <details>
 <summary>Initiate Cyber Nexus</summary>
@@ -39,14 +55,69 @@
 > firewall bypass engaged...  
 > shadow protocol online...  
 > infiltration underway...  
-> system override: ENABLED
-</details>
-⚡ QUANTUM THOUGHT
-"In the silence of the void, code is my only voice.
-Fear is the currency, and power is the reward."
-
-🌐 CONNECTION PORTS
-
+> system override: ENABLED  
+> encrypting payload...  
+> data exfiltration started...  
+> mission complete.
 ```
 
-<p align="center"><sub><em>Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p> 
+</details>
+
+---
+
+### 🎛️ CONFIGURATION MATRIX
+
+| Parameter           | Value                    | Notes                          |
+|---------------------|--------------------------|--------------------------------|
+| Preferred Stack     | React, Node.js, Rust, Go | High performance & scalability  |
+| Primary Languages   | JavaScript, Python, Rust | Automation, AI, Backend        |
+| Theme Preference    | Cyberpunk / Space Terminal | Neon, dark mode, high contrast |
+| Automation Scripts  | Custom GitHub Actions    | Dynamic profiles & analytics   |
+
+---
+
+### 🌐 CONNECTION PORTS
+
+[![Twitter](https://img.shields.io/badge/-Twitter-00aced?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Noxveryn)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Noxveryn)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noxveryn@example.com)
+
+---
+
+### 🔥 DAILY CYBER UPDATES (via GitHub Actions)
+
+> _Dynamic status & color schemes rotating every 24 hours_  
+> _Injecting fresh vibes & neon glow into the digital void_
+
+---
+
+### 📂 REPOSITORY NAVIGATOR
+
+| Repo Name                 | Description                                   | Status      | Link        |
+|---------------------------|-----------------------------------------------|-------------|-------------|
+| stealth-bot               | AI-powered Telegram bot for covert ops       | Active      | [Repo](#)   |
+| crypto-dash               | Real-time cryptocurrency analytics dashboard | Maintaining | [Repo](#)   |
+| cyberpunk-web             | Neon-themed cyberpunk news & portfolio site  | Active      | [Repo](#)   |
+
+---
+
+### 🧩 EASTER EGG (Secret Hacker Console)
+
+<details>
+<summary>Open Digital Phantom Console</summary>
+
+```plaintext
+> SYSTEM OVERRIDE ENGAGED
+> ACCESSING ENCRYPTED MODULES...
+> DECODING NEURAL NETWORKS...
+> THREAT ANALYSIS: NONE
+> PHANTOM MODE: ACTIVE
+> CLOSING SECURE CHANNELS...
+> SIGNING OFF IN SHADOW
+```
+
+</details>
+
+---
+
+<p align="center"><sub><em>Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p>
