@@ -1,73 +1,90 @@
+
 <div align="center">
-  <h1>👾 NOXVERYN</h1>
-  <p><i>Full-stack Cyberpunk Architect · Shadow Operator · Silent Infiltrator</i></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Code+Is+My+Weapon;Shadow+in+the+Machine;Silent+Operator;Full-stack+Cyberpunk+Architect" />
+  <h1><code>🧠 NOXVERYN</code></h1>
+  <p><i>Cybernetic Code Alchemist ⚡ Shadow Architect ⚡ Ghost in the Net</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=Deploying+Quantum+Protocols...;Monitoring+the+Neon+Grid...;Initializing+CyberOps...;Shadow+Protocol+Engaged" />
 </div>
 
 ---
 
-### 🧠 SYSTEM STATUS
+### ⚙️ SYSTEM STATUS
 
-> ⚙️ `BOOTING...`<br>
-> 🧬 `GENOME: Hybrid - Human x Machine`<br>
-> 📡 `SIGNAL STRENGTH: Untraceable`<br>
-> 🔐 `ACCESS LEVEL: Root`<br>
-> 👁‍🗨 `VISIBILITY: Shadow Protocol Engaged`
+```bash
+> Booting kernel...
+> Identity: NOXVERYN
+> Classification: TOP SECRET
+> Clearance: SHADOW LEVEL 9
+> Threat Level: UNTRACEABLE
+> Protocols: ACTIVE (QuantumScript, CyberShell, DarkTrace)
+> Access Log: CLEAN
+> Network: Encrypted on port ⚡1337
+```
 
 ---
 
-### 🧬 LANGUAGES & TOOLS
+### 🧬 TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,java,cpp,php,swift,cs,html,css,sql,bash,vim,git,github,linux,docker,kubernetes,aws,nodejs,react,vue,angular,mongodb,postgresql,redis,nginx,express,django,flask,unity,unreal,blender,figma&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,java,cpp,swift,html,css,sql,bash,git,linux,docker,kubernetes,nodejs,react,nextjs,vue,angular,flask,django,mongodb,postgresql,redis,aws,nginx,unreal,unity,blender,figma&theme=dark&perline=9" />
 </div>
 
 ---
 
-### 🚀 LATEST PROJECTS
+### 🚧 CURRENT OPS
 
-| 💡 Project | ⚙️ Description |
-|------------|----------------|
-| 🔥 **CyberShell** | Terminal-based stealth AI for network infiltration & monitoring |
-| 🌀 **NeonDB** | Real-time syncing NoSQL database with a neon interface |
-| 💀 **DarkTrace** | AI-driven intrusion detection using anomaly prediction |
-| 🌌 **QuantumScript** | JS-based quantum computing simulator for next-gen devs |
+| 💻 Project | 🧠 Description |
+|-----------|----------------|
+| **CyberShell** | Terminal AI agent for real-time network infiltration |
+| **DarkTrace** | Stealth AI for threat hunting & anomaly detection |
+| **NeonDB** | Reactive, real-time NoSQL DB with glowing query system |
+| **QuantumScript** | JavaScript engine to simulate quantum logic |
 
 ---
 
-### 📊 GITHUB STATS
+### 📈 INTEL DASHBOARD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&theme=dracula&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxveryn&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxveryn&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🧠 PHILOSOPHY
+### 🧠 CORE PHILOSOPHY
 
-> _“In the digital void, shadows are not empty — they are the silent hunters.  
-> I am the ghost behind the code, unseen yet ever-present.”_
+> _“I write in silence.  
+> I deploy in shadows.  
+> My code doesn’t run — it infiltrates.”_
 
 ---
 
-### 📡 CONTACT PROTOCOLS
+### 🔐 CONTACT FREQUENCIES
 
-| 🛰️ Platform | 🔗 Link |
-|------------|--------|
+| Protocol | Link |
+|---------|------|
 | 🐦 Twitter | [@Noxveryn](https://twitter.com/Noxveryn) |
 | 💼 LinkedIn | [linkedin.com/in/Noxveryn](https://linkedin.com/in/Noxveryn) |
-| 📧 Email | [noxveryn@protonmail.com](mailto:noxveryn@protonmail.com) |
+| 📧 ProtonMail | [noxveryn@protonmail.com](mailto:noxveryn@protonmail.com) |
 | 💬 Telegram | [@Noxveryn](https://t.me/Noxveryn) |
 
 ---
 
-### 🧪 CURRENTLY IN THE LAB
+### 🛰️ ACTIVE MODULES
 
 ```yaml
-status: "Active"
+status: online
+location: classified
 focus:
-  - Building advanced AI agents
-  - Cybersecurity automation tools
-  - Real-time systems & devtools
-next_mission: "Deploy Quantum Intelligence Framework"
+  - Autonomous agents
+  - LLM integration
+  - Deep netwatch surveillance
+next_objective: "Deploy next-gen cyber node on encrypted mesh"
+```
+
+---
+
+### 🎨 VISUAL INTERFACE: CYBERPUNK MODE
+
+<div align="center">
+  <img src="https://via.placeholder.com/700x200/0D0D0D/00FFF7?text=++CYBERPUNK+INTERFACE+ACTIVE++" />
+</div>
