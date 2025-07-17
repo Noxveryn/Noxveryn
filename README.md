@@ -1,63 +1,69 @@
-# 👋 سلام، من Noxveryn
+# 👾 Noxveryn | Cyberpunk Full-stack Architect
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00f9ff&width=600&lines=Full-stack+Developer;Dark+Hacker;Cyberpunk+Coder)
-
----
-
-### 🚀 درباره من
-
-- فول استک دولوپر با عشق به دنیای هک و سایبرپانک  
-- عاشق ساخت ابزارهای کاربردی و پروژه‌های چالش‌برانگیز  
-- همیشه دنبال بهترین UX و UI برای پروژه‌ها
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=00ffff&width=700&lines=Full-stack+Cyberpunk+Architect;Digital+Hacker;Code+Artisan)
 
 ---
 
-### 📊 آمار فعالیت‌های من
+### ⚙️ System Overview
 
-![Noxveryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+> User: Noxveryn  
+> Role: Full-stack Developer & Cybersecurity Enthusiast  
+> Status: Online | Stealth Mode: ACTIVE  
+> Location: Digital Frontier
+
+---
+
+### 🛰️ Mission Brief
+
+- Architect of resilient full-stack solutions  
+- Creator of covert cyber tools and scripts  
+- UI/UX connoisseur with a dark neon obsession  
+- Explorer of AI frontiers and automation realms
 
 ---
 
-### 🎮 پروژه‌های منتخب
+### 📈 Activity Grid
 
-| پروژه | توضیح | لینک |
-|---|---|---|
-| پروژه A | ساخت ربات تلگرامی هوشمند | [GitHub](#) |
-| پروژه B | داشبورد کریپتو با AI | [GitHub](#) |
-| پروژه C | وب‌سایت خبری سایبرپانک | [GitHub](#) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=radical&count_private=true&hide_title=true)
 
 ---
+
+### 🕶️ Terminal Access
 
 <details>
-<summary>💻 کنسول هکری مخفی</summary>
+<summary>Access Cyber Console</summary>
 
-
-booting cyber terminal...
-loading projects...
-initializing hacker mode...
-access granted!
-
-
+```bash
+> Initiating cybernet connection...
+> Authenticating user credentials...
+> Deploying full-stack arsenal...
+> Activating stealth protocols...
+> Ready for infiltration.
+```
 </details>
 
----
+🧠 Neural Updates
+"Data is the new oil. I refine it into intelligence."
 
-### 💬 پیام روزانه
 
-> `"Stay hungry, stay foolish."`  
+📡 Network Links
 
----
+<p align="center"><sub><em>Crafted with precision in the neon glow of cyberspace.</em></sub></p> ```
 
-### 📫 ارتباط با من
 
-- [Twitter](https://twitter.com/Noxveryn)  
-- [LinkedIn](https://linkedin.com/in/Noxveryn)  
-- ایمیل: noxveryn@example.com  
 
----
 
-<footer>
-  <p align="center">
-    <em>Made with ❤️ in Cyberpunk Style</em>
-  </p>
-</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
