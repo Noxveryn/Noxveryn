@@ -8,7 +8,7 @@
 ### 🧠 System Status
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app ?font=Fira+Code&color=00fffb&lines=ID%3A+Noxveryn;Role%3A+Full-stack+Architect+%26+Cyber+Phantom;Net%3A+Classified+%7C+ENGAGED;Mode%3A+Stealth+%7C+Access+Level%3A+ROOT" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com ?font=Orbitron&size=44&pause=1000&color=00fff7&width=750&lines=Full-stack+Cyberpunk+Architect;Silent+Operator;Shadow+in+the+Machine;Code+Is+My+Weapon)
 </div>
 
 ---
