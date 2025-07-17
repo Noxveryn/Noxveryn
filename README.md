@@ -8,26 +8,15 @@
 
 ---
 
-### ⚙️ SYSTEM STATUS: ███████████ 99.9% OPERATIONAL
+### ⚙️ <span style="color:#00fff7;">SYSTEM STATUS:</span> ███████████ <span style="color:#ff00c8;">99.9% OPERATIONAL</span>
 
+```ansi
+[36mID:[0m NOXVERYN
+[36mROLE:[0m Full-stack Architect & Cyber Phantom
+[36mLOCATION:[0m Classified
+[36mNETWORK:[0m Secure | Status: [35mEngaged[0m
+[36mMODE:[0m Stealth | Access Level: Root
 ```
-ID: NOXVERYN
-ROLE: Full-stack Architect & Cyber Phantom
-LOCATION: Classified
-NETWORK: Secure | Status: Engaged
-MODE: Stealth | Access Level: Root
-```
-
----
-
-### 🛸 MISSION LOG
-
-| Timestamp             | Operation Description                      | Status    |
-|-----------------------|--------------------------------------------|-----------|
-| 2025-07-17 22:45 UTC  | Deploy stealth AI-driven cyber tools       | ✅ Success |
-| 2025-07-15 18:10 UTC  | Automated breach simulations & firewall tests | ✅ Success |
-| 2025-07-12 04:32 UTC  | Crafted custom UI/UX for neon-drenched dashboards | ✅ Success |
-| 2025-07-10 12:00 UTC  | Full-stack architecture revamp with Rust & Go | ✅ Success |
 
 ---
 
@@ -39,15 +28,17 @@ MODE: Stealth | Access Level: Root
 
 ### 🔮 QUANTUM THOUGHTS
 
-> "In the void of endless code, silence speaks louder than noise.  
-> Fear is a shadow — I am the light that dissects it."
+<blockquote style="color:#ff00c8; font-style: italic; border-left: 4px solid #00fff7; padding-left: 16px;">
+"In the void of endless code, silence speaks louder than noise.<br>
+Fear is a shadow — I am the light that dissects it."
+</blockquote>
 
 ---
 
 ### ⌨️ TERMINAL ACCESS
 
 <details>
-<summary>Initiate Cyber Nexus</summary>
+<summary style="color:#00fff7;">Initiate Cyber Nexus</summary>
 
 ```bash
 > boot sequence initiated...  
@@ -99,7 +90,7 @@ MODE: Stealth | Access Level: Root
 ### 🧩 EASTER EGG (Secret Hacker Console)
 
 <details>
-<summary>Open Digital Phantom Console</summary>
+<summary style="color:#ff00c8;">Open Digital Phantom Console</summary>
 
 ```plaintext
 > SYSTEM OVERRIDE ENGAGED
@@ -115,4 +106,4 @@ MODE: Stealth | Access Level: Root
 
 ---
 
-<p align="center"><sub><em>Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p>
+<p align="center"><sub><em style="color:#00fff7;">Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p>
