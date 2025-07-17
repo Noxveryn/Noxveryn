@@ -1,69 +1,52 @@
-# 👾 Noxveryn | Cyberpunk Full-stack Architect
+# 🚀 NOXVERYN | The Digital Phantom
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=00ffff&width=700&lines=Full-stack+Cyberpunk+Architect;Digital+Hacker;Code+Artisan)
-
----
-
-### ⚙️ System Overview
-
-> User: Noxveryn  
-> Role: Full-stack Developer & Cybersecurity Enthusiast  
-> Status: Online | Stealth Mode: ACTIVE  
-> Location: Digital Frontier
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1500&color=0ff&width=720&lines=Full-stack+Cyberpunk+Architect;Silent+Operator;Shadow+in+the+Machine)
 
 ---
 
-### 🛰️ Mission Brief
+### ⚙️ SYSTEM STATUS: ███████████ 99.9% OPERATIONAL
 
-- Architect of resilient full-stack solutions  
-- Creator of covert cyber tools and scripts  
-- UI/UX connoisseur with a dark neon obsession  
-- Explorer of AI frontiers and automation realms
-
----
-
-### 📈 Activity Grid
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=radical&count_private=true&hide_title=true)
+> Identity: NOXVERYN  
+> Role: Full-stack Architect & Digital Phantom  
+> Network: Secure | Location: Unknown  
+> Status: Engaged in Deep Code Extraction
 
 ---
 
-### 🕶️ Terminal Access
+### 🛸 MISSION LOG
+
+- 🛠 Architecting resilient full-stack infrastructures under neon shadows  
+- ⚡ Deploying stealth automation & AI-driven cyber warfare tools  
+- 🌑 Navigating the silent void of cyberspace with lethal precision  
+- 🎨 Designing UI interfaces that bleed darkness and light
+
+---
+
+### 📊 ACTIVITY MATRIX
+
+![Noxveryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=dark&count_private=true&hide_title=true)
+
+---
+
+### ⌨️ ACCESS TERMINAL
 
 <details>
-<summary>Access Cyber Console</summary>
+<summary>Initiate Cyber Nexus</summary>
 
 ```bash
-> Initiating cybernet connection...
-> Authenticating user credentials...
-> Deploying full-stack arsenal...
-> Activating stealth protocols...
-> Ready for infiltration.
-```
+> boot sequence initiated...  
+> neural interface activated...  
+> firewall bypass engaged...  
+> shadow protocol online...  
+> infiltration underway...  
+> system override: ENABLED
 </details>
+⚡ QUANTUM THOUGHT
+"In the silence of the void, code is my only voice.
+Fear is the currency, and power is the reward."
 
-🧠 Neural Updates
-"Data is the new oil. I refine it into intelligence."
-
-
-📡 Network Links
-
-<p align="center"><sub><em>Crafted with precision in the neon glow of cyberspace.</em></sub></p> ```
+🌐 CONNECTION PORTS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center"><sub><em>Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p> ```
