@@ -1,109 +1,68 @@
-<!-- =============================== -->
-<!--    Noxveryn - The Digital Phantom -->
-<!-- =============================== -->
-
-# 🚀 NOXVERYN | The Digital Phantom
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1600&color=00fff7&width=750&lines=Full-stack+Cyberpunk+Architect;Silent+Operator;Shadow+in+the+Machine;Code+Is+My+Weapon)
+<div align="center">
+  <br>
+  <h1>👾 NOXVERYN</h1>
+  <p><i>Full-stack Cyberpunk Architect | Shadow Operator | Silent Infiltrator</i></p>
+</div>
 
 ---
 
-### ⚙️ <span style="color:#00fff7;">SYSTEM STATUS:</span> ███████████ <span style="color:#ff00c8;">99.9% OPERATIONAL</span>
-
-```ansi
-[36mID:[0m NOXVERYN
-[36mROLE:[0m Full-stack Architect & Cyber Phantom
-[36mLOCATION:[0m Classified
-[36mNETWORK:[0m Secure | Status: [35mEngaged[0m
-[36mMODE:[0m Stealth | Access Level: Root
-```
+### 🧠 <b>System Status</b>
+- 🟢 <b>ID:</b> NOXVERYN
+- 🟢 <b>Role:</b> Full-stack Architect & Cyber Phantom
+- 🟡 <b>Net:</b> Classified | ENGAGED
+- 🔴 <b>Mode:</b> Stealth | Access Level: ROOT
 
 ---
 
-### 📊 ACTIVITY MATRIX
-
-![Noxveryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=radical&count_private=true&hide_title=true)
-
----
-
-### 🔮 QUANTUM THOUGHTS
-
-<blockquote style="color:#ff00c8; font-style: italic; border-left: 4px solid #00fff7; padding-left: 16px;">
-"In the void of endless code, silence speaks louder than noise.<br>
-Fear is a shadow — I am the light that dissects it."
-</blockquote>
+### 🧬 <b>Languages & Tools</b>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=5&theme=dark&skills=js,py,ts,go,java,cpp,php,swift,cs,html,css,sql,bash,vim,git,github,linux,docker,k8s,aws,react,vue,angular,nodejs,mongodb,postgresql,redis,nginx,express,flask,django,unity,unreal,blender,figma">
+  <img src=" https://skillicons.dev/icons?perline=5&skills=js,py,ts,go,java,cpp,php,swift,cs,html,css,sql,bash,vim,git,github,linux,docker,k8s,aws,react,vue,angular,nodejs,mongodb,postgresql,redis,nginx,express,flask,django,unity,unreal,blender,figma" />
+</picture>
 
 ---
 
-### ⌨️ TERMINAL ACCESS
+### 🚀 <b>Latest Projects</b>
 
-<details>
-<summary style="color:#00fff7;">Initiate Cyber Nexus</summary>
-
-```bash
-> boot sequence initiated...  
-> neural interface activated...  
-> firewall bypass engaged...  
-> shadow protocol online...  
-> infiltration underway...  
-> system override: ENABLED  
-> encrypting payload...  
-> data exfiltration started...  
-> mission complete.
-```
-
-</details>
+- 🔥 <b>CyberShell</b> - A terminal-based stealth AI for network monitoring
+- 🌀 <b>NeonDB</b> - A futuristic NoSQL database with real-time sync
+- 💀 <b>DarkTrace</b> - AI-powered intrusion detection system
+- 🌌 <b>QuantumScript</b> - A quantum computing simulator in JS
 
 ---
 
-### 🎛️ CONFIGURATION MATRIX
+### 📊 <b>GitHub Stats</b>
 
-| Parameter           | Value                    | Notes                          |
-|---------------------|--------------------------|--------------------------------|
-| Preferred Stack     | React, Node.js, Rust, Go | High performance & scalability  |
-| Primary Languages   | JavaScript, Python, Rust | Automation, AI, Backend        |
-| Theme Preference    | Cyberpunk / Space Terminal | Neon, dark mode, high contrast |
-| Automation Scripts  | Custom GitHub Actions    | Dynamic profiles & analytics   |
-
----
-
-### 🌐 CONNECTION PORTS
-
-[![Twitter](https://img.shields.io/badge/-Twitter-00aced?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Noxveryn)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Noxveryn)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noxveryn@example.com)
+<div align="center">
+  <a href=" https://github.com/NOXVERYN ">
+    <img src="https://github-readme-stats.vercel.app/api?username=NOXVERYN&theme=dracula&show_icons=true" />
+  </a>
+  <a href=" https://github.com/NOXVERYN ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOXVERYN&theme=dracula" />
+  </a>
+</div>
 
 ---
 
-### ⚡ CURRENT OPERATIONS
+### 🧠 <b>Philosophy of Me</b>
 
-```plaintext
->> SYSTEM STATUS: ENGAGED
->> CORE FUNCTIONS: OPTIMIZED
->> NETWORK INTEGRITY: 100%
->> STEALTH MODE: ACTIVE
->> AI PROTOCOLS: RUNNING
-```
+> "In the digital void, shadows are not empty — they are the silent hunters.  
+> I am the ghost behind the code, unseen yet ever-present."
 
 ---
 
-### 🧩 EASTER EGG (Secret Hacker Console)
+### 📞 <b>Contact Me</b>
 
-<details>
-<summary style="color:#ff00c8;">Open Digital Phantom Console</summary>
-
-```plaintext
-> SYSTEM OVERRIDE ENGAGED
-> ACCESSING ENCRYPTED MODULES...
-> DECODING NEURAL NETWORKS...
-> THREAT ANALYSIS: NONE
-> PHANTOM MODE: ACTIVE
-> CLOSING SECURE CHANNELS...
-> SIGNING OFF IN SHADOW
-```
-
-</details>
+| Platform | Username |
+|----------|----------|
+| 🐦 Twitter | [twitter.com/NOXVERYN]( https://twitter.com/NOXVERYN ) |
+| 💼 LinkedIn | [linkedin.com/in/NOXVERYN](https://linkedin.com/in/NOXVERYN ) |
+| 📧 Email | [mailto:noxveryn@protonmail.com](noxveryn@protonmail.com) |
+| 💬 Telegram | [t.me/NOXVERYN](https://t.me/NOXVERYN ) |
 
 ---
 
-<p align="center"><sub><em style="color:#00fff7;">Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p>
+### 🎨 <b>Theme: Cyberpunk Dracula</b>
+<div align="center">
+  <img src="https://via.placeholder.com/600x200?text=CYBERPUNK+THEME+LOADED" />
+</div>
