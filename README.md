@@ -47,6 +47,6 @@ Fear is the currency, and power is the reward."
 
 🌐 CONNECTION PORTS
 
+```
 
-
-<p align="center"><sub><em>Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p> ```
+<p align="center"><sub><em>Forged in the abyss, coded in neon — This is the path of the phantom.</em></sub></p> 
