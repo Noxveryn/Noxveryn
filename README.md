@@ -1,74 +1,73 @@
 <div align="center">
-  <h1>👾 Noxveryn</h1>
-  <p><i>Full-stack Cyberpunk Architect | Shadow Operator | Silent Infiltrator</i></p>
+  <h1>👾 NOXVERYN</h1>
+  <p><i>Full-stack Cyberpunk Architect · Shadow Operator · Silent Infiltrator</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Code+Is+My+Weapon;Shadow+in+the+Machine;Silent+Operator;Full-stack+Cyberpunk+Architect" />
 </div>
 
 ---
 
-### 🧠 System Status
+### 🧠 SYSTEM STATUS
+
+> ⚙️ `BOOTING...`<br>
+> 🧬 `GENOME: Hybrid - Human x Machine`<br>
+> 📡 `SIGNAL STRENGTH: Untraceable`<br>
+> 🔐 `ACCESS LEVEL: Root`<br>
+> 👁‍🗨 `VISIBILITY: Shadow Protocol Engaged`
+
+---
+
+### 🧬 LANGUAGES & TOOLS
 
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com ?font=Orbitron&size=44&pause=1000&color=00fff7&width=750&lines=Full-stack+Cyberpunk+Architect;Silent+Operator;Shadow+in+the+Machine;Code+Is+My+Weapon)
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,java,cpp,php,swift,cs,html,css,sql,bash,vim,git,github,linux,docker,kubernetes,aws,nodejs,react,vue,angular,mongodb,postgresql,redis,nginx,express,django,flask,unity,unreal,blender,figma&perline=10&theme=dark" />
 </div>
 
 ---
 
-### 🧬 Languages & Tools
+### 🚀 LATEST PROJECTS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=5&theme=dark&skills=js,py,ts,go,java,cpp,php,swift,cs,html,css,sql,bash,vim,git,github,linux,docker,k8s,aws,react,vue,angular,nodejs,mongodb,postgresql,redis,nginx,express,flask,django,unity,unreal,blender,figma" />
-  <img src=" https://skillicons.dev/icons?perline=5&skills=js,py,ts,go,java,cpp,php,swift,cs,html,css,sql,bash,vim,git,github,linux,docker,k8s,aws,react,vue,angular,nodejs,mongodb,postgresql,redis,nginx,express,flask,django,unity,unreal,blender,figma" />
-</picture>
-
----
-
-### 🚀 Latest Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔥 <b>CyberShell</b> | A terminal-based stealth AI for network monitoring |
-| 🌀 <b>NeonDB</b> | A futuristic NoSQL database with real-time sync |
-| 💀 <b>DarkTrace</b> | AI-powered intrusion detection system |
-| 🌌 <b>QuantumScript</b> | A quantum computing simulator in JS |
+| 💡 Project | ⚙️ Description |
+|------------|----------------|
+| 🔥 **CyberShell** | Terminal-based stealth AI for network infiltration & monitoring |
+| 🌀 **NeonDB** | Real-time syncing NoSQL database with a neon interface |
+| 💀 **DarkTrace** | AI-driven intrusion detection using anomaly prediction |
+| 🌌 **QuantumScript** | JS-based quantum computing simulator for next-gen devs |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GITHUB STATS
 
 <div align="center">
-  <a href=" https://github.com/Noxveryn ">
-    <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&theme=dracula&show_icons=true" />
-  </a>
-  <a href=" https://github.com/Noxveryn ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxveryn&theme=dracula" />
-  </a>
-  <a href=" https://github.com/Noxveryn ">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Noxveryn&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noxveryn&theme=dracula&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxveryn&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-### 🧠 Philosophy
+### 🧠 PHILOSOPHY
 
-> "In the digital void, shadows are not empty — they are the silent hunters.  
-> I am the ghost behind the code, unseen yet ever-present."
+> _“In the digital void, shadows are not empty — they are the silent hunters.  
+> I am the ghost behind the code, unseen yet ever-present.”_
 
 ---
 
-### 📞 Contact Me
+### 📡 CONTACT PROTOCOLS
 
-| Platform | Username |
-|----------|----------|
-| 🐦 Twitter | [@Noxveryn]( https://twitter.com/Noxveryn ) |
-| 💼 LinkedIn | [linkedin.com/in/Noxveryn](https://linkedin.com/in/Noxveryn ) |
+| 🛰️ Platform | 🔗 Link |
+|------------|--------|
+| 🐦 Twitter | [@Noxveryn](https://twitter.com/Noxveryn) |
+| 💼 LinkedIn | [linkedin.com/in/Noxveryn](https://linkedin.com/in/Noxveryn) |
 | 📧 Email | [noxveryn@protonmail.com](mailto:noxveryn@protonmail.com) |
-| 💬 Telegram | [t.me/Noxveryn](https://t.me/Noxveryn ) |
+| 💬 Telegram | [@Noxveryn](https://t.me/Noxveryn) |
 
 ---
 
-### 🎨 Theme: Cyberpunk Dracula
+### 🧪 CURRENTLY IN THE LAB
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x200?text=CYBERPUNK+THEME+LOADED" />
-</div>
+```yaml
+status: "Active"
+focus:
+  - Building advanced AI agents
+  - Cybersecurity automation tools
+  - Real-time systems & devtools
+next_mission: "Deploy Quantum Intelligence Framework"
