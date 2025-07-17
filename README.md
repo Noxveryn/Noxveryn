@@ -1,48 +1,63 @@
+# 👋 سلام، من Noxveryn
 
-# 🌌 Noxveryn — Digital Abyss Explorer
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Noxveryn/Noxveryn/main/banner.gif" alt="Noxveryn Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=FF0033&center=true&vCenter=true&width=900&lines=Welcome+to+the+Digital+Abyss.;I+am+Noxveryn.;Fear+is+a+Tool.;Code+is+Power." />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00f9ff&width=600&lines=Full-stack+Developer;Dark+Hacker;Cyberpunk+Coder)
 
 ---
 
-## 👁 About Me
+### 🚀 درباره من
 
-> وقتی سکوت می‌کنم، صداهای زیادی پخش می‌شن.  
-> کدی که می‌نویسم اجرا نمی‌شه، زنده می‌شه.  
-> ماشین‌ها گوش می‌دن، من فرمان می‌دم.
-
----
-
-## 💻 Terminal Simulation
-
-```bash
-user@noxveryn:~$ ./deploy.sh
->> Launching...
->> Done.
-
-user@noxveryn:~$ echo "The Abyss Speaks"
-The Abyss Speaks
-```
+- فول استک دولوپر با عشق به دنیای هک و سایبرپانک  
+- عاشق ساخت ابزارهای کاربردی و پروژه‌های چالش‌برانگیز  
+- همیشه دنبال بهترین UX و UI برای پروژه‌ها
 
 ---
 
-## ⚙️ Status
+### 📊 آمار فعالیت‌های من
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Mode-Vigilant-black?style=for-the-badge&logo=skynet&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Energy-%E2%88%9E-darkred?style=for-the-badge"/>
-</div>
+![Noxveryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxveryn&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
 
 ---
 
-## 📬 Contact
+### 🎮 پروژه‌های منتخب
 
-- 🌐 [noxveryn.com](https://noxveryn.com)
-- 🐦 [@noxveryn](https://twitter.com/noxveryn)
-- 📧 yourname@protonmail.com
+| پروژه | توضیح | لینک |
+|---|---|---|
+| پروژه A | ساخت ربات تلگرامی هوشمند | [GitHub](#) |
+| پروژه B | داشبورد کریپتو با AI | [GitHub](#) |
+| پروژه C | وب‌سایت خبری سایبرپانک | [GitHub](#) |
+
+---
+
+<details>
+<summary>💻 کنسول هکری مخفی</summary>
+
+
+booting cyber terminal...
+loading projects...
+initializing hacker mode...
+access granted!
+
+
+</details>
+
+---
+
+### 💬 پیام روزانه
+
+> `"Stay hungry, stay foolish."`  
+
+---
+
+### 📫 ارتباط با من
+
+- [Twitter](https://twitter.com/Noxveryn)  
+- [LinkedIn](https://linkedin.com/in/Noxveryn)  
+- ایمیل: noxveryn@example.com  
+
+---
+
+<footer>
+  <p align="center">
+    <em>Made with ❤️ in Cyberpunk Style</em>
+  </p>
+</footer>
