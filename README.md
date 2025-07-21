@@ -22,18 +22,7 @@
   <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,php,html,css,js,bash,linux,kali,nodejs,react,kotlin,=10&theme=dark" />
 </div>
 
----
 
-### 🚀 LATEST PROJECTS
-
-| 💡 Project | ⚙️ Description |
-|------------|----------------|
-| 🔥 **CyberShell** | Terminal-based stealth AI for network infiltration & monitoring |
-| 🌀 **NeonDB** | Real-time syncing NoSQL database with a neon interface |
-| 💀 **DarkTrace** | AI-driven intrusion detection using anomaly prediction |
-| 🌌 **QuantumScript** | JS-based quantum computing simulator for next-gen devs |
-
----
 
 ### 📊 GITHUB STATS
 
